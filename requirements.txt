@@ -72,7 +72,6 @@ matplotlib==3.7.1
 mccabe==0.7.0
 mdurl==0.1.2
 meilisearch==0.25.0
--e git+https://github.com/LegitAkash/Generic_ml_project.git@f01c1d99c1630a1d0a236f775c722f2f2d4f555f#egg=mlproject
 multidict==6.0.4
 mysqlclient==2.1.1
 numpy==1.23.0
